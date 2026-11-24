@@ -17,7 +17,7 @@ OUTPUT_FILE      = "index.html"
 
 NOME_CLIENTE     = "GC2 Materiais Elétricos"
 LOGO_LETRA       = "GC2"
-COR_ACENTO       = "#4A6984"
+COR_ACENTO       = "#04979E"
 
 LANCAMENTO_COD   = ""        # filtra campanhas; "" = ver tudo
 USAR_PESQUISA    = False            # False = oculta aba Pesquisa
