@@ -1,0 +1,33 @@
+{
+  "cliente": "GC2 Materiais Elétricos",
+  "cor": "#4A6984",
+  "letra": "GC2",
+  "atualizado": "24/11/2026",
+  "meta": {
+    "cplBom": 10.0,
+    "cplMedio": 18.0,
+    "d1": {
+      "spend": 69.89,
+      "leads": 4,
+      "cpl": 17.47
+    },
+    "d7": {
+      "spend": 439.23,
+      "leads": 25,
+      "cpl": 17.57
+    },
+    "d14": {
+      "spend": 439.23,
+      "leads": 25,
+      "cpl": 17.57
+    },
+    "d30": {
+      "spend": 439.23,
+      "leads": 25,
+      "cpl": 17.57
+    }
+  },
+  "google": {
+    "ativo": false
+  }
+}
